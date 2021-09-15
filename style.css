@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    align-items: center;
+    width: 800px;
+    margin: 10px auto;
+    padding: 15px;
+}
+
+img{
+    height: 200px;
+}
+
+#blue{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+#lavender{
+    background-color: lavender;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#white{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+h5{
+    color:rgb(75, 84, 94);
+    text-align: center;
+}
